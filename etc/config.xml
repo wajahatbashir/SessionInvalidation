@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Config/etc/config.xsd">
+    <default>
+        <wb_sessioninvalidation>
+            <general>
+                <enabled>1</enabled>
+            </general>
+        </wb_sessioninvalidation>
+    </default>
+</config>
