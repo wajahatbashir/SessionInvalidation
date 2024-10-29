@@ -3,7 +3,7 @@
     <system>
         <section id="wb_sessioninvalidation" translate="label" sortOrder="900" showInDefault="1" showInWebsite="1" showInStore="1">
             <label>Session Invalidation on Password Change</label>
-            <tab>jaipurandco</tab>
+            <tab>general</tab>
             <resource>WB_SessionInvalidation::config</resource>
             <group id="general" translate="label" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
                 <label>General Configuration</label>
